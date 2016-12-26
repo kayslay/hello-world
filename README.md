@@ -1,2 +1,3 @@
 # hello-world
-just starting git
+just starting git 
+learning my git
