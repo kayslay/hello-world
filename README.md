@@ -1,4 +1,3 @@
-# hello-world
-just starting git 
-learning my git
-hello
+# my first readme.file
+that not tru
+main
