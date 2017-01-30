@@ -1,1 +1,1 @@
-console.log('cool cat')
+console.log('cool cat');
