@@ -16,7 +16,8 @@
     "url": "git+https://github.com/kayslay/hello-world.git"
   },
   "devDependencies":{
-  "webpack": "latest"
+  "webpack": "latest",
+  "eslint-loader": "3.10.3"
   },
   "author": "badewa kayode",
   "license": "MIT",
