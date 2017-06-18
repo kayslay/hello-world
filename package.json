@@ -1,28 +1,23 @@
 {
-  "name": "hello-travis-ci",
+  "name": "hello-world",
   "version": "1.0.0",
-  "description": "testing travis",
+  "description": "that not tru main",
   "main": "index.js",
-  "dependencies": {
-    "eslint-loader": "^1.6.1",
-    "webpack-eslint-plugin": "^1.2.0"
-  },
-  "devDependencies": {},
   "scripts": {
-    "test": "webpack --verbose"
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/kayslay/hello-world.git"
   },
-  "devDependencies":{
-  "webpack": "latest",
-  "eslint-loader": "3.10.3"
-  },
-  "author": "badewa kayode",
+  "keywords": [],
+  "author": "Badewa Kayode <badewakayode1@gmail.com>",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/kayslay/hello-world/issues"
   },
-  "homepage": "https://github.com/kayslay/hello-world#readme"
+  "homepage": "https://github.com/kayslay/hello-world#readme",
+  "dependencies": {
+    "chai": "^4.0.2"
+  }
 }
