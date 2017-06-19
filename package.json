@@ -19,6 +19,7 @@
   },
   "homepage": "https://github.com/kayslay/hello-world#readme",
   "dependencies": {
-    "chai": "^4.0.2"
+    "chai": "^4.0.2",
+    "jshint": "^2.9.4"
   }
 }
