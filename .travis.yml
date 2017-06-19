@@ -1,6 +1,9 @@
 language: node_js
 node_js:
-  - "0.10"
+  - "8.0.0"
 before_script:
   - npm install -g mocha
   - npm install chai
+script :
+  - npm run lint
+  - npm test

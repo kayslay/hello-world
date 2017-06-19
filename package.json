@@ -4,7 +4,8 @@
   "description": "that not tru main",
   "main": "index.js",
   "scripts": {
-    "test": "mocha test/"
+    "test": "mocha test/",
+    "lint": "jshint **/*.js"
   },
   "repository": {
     "type": "git",
